@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **MERN**
 
-- 👨‍💻 All of my projects are available at [https://felix-kiptoo-portfolio.netlify.app/](https://felix-kiptoo-portfolio.netlify.app/)
+- 👨‍💻 Portfolio [https://felix-kiptoo-portfolio.netlify.app/](https://felix-kiptoo-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
