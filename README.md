@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **MERN**
 
-- 👨‍💻 Portfolio [https://felix-kiptoo-portfolio.netlify.app/](https://felix-kiptoo-portfolio.netlify.app/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **fkiptooh@gmail.com**
