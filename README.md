@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on **eShop**
 
-- 🌱 I’m currently learning **MEARN, Blockchain**
+- 🌱 I’m currently learning **MERN, Blockchain**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 🤝 I’m looking for help with **MEARN**
+- 🤝 I’m looking for help with **MERN**
 
 - 👨‍💻 All of my projects are available at [https://felix-kiptoo-portfolio.netlify.app/](https://felix-kiptoo-portfolio.netlify.app/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **fkiptooh@gmail.com**
 
